@@ -97,7 +97,7 @@ Welcome to **Day-19** of our Java backend journey! Today we took our first real 
 
 * [GitHub Docs – Forking Projects](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 * [Git vs GitHub Explained](https://www.geeksforgeeks.org/difference-between-git-and-github/)
-* [Octocat Origin Story](https://www.wired.com/2013/05/github-octocat/)
+* [Octocat Origin Story](https://cameronmcefee.com/work/the-octocat/#:~:text=Origin%20story&text=The%20founders%20purchased%20a%20stock,was%20created%20by%20Simon%20Oxley.)
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ---
