@@ -82,9 +82,13 @@ Welcome to **Day-19** of our Java backend journey! Today we took our first real 
 ## **🎯 Exercises**
 
 ✅ Fork a sample repository shared by your instructor
+
 ✅ Clone it to your local machine
+
 ✅ Make simple changes and push them back
+
 ✅ Observe pull/push access permissions
+
 ✅ Identify differences between local commits and remote sync
 
 ---
